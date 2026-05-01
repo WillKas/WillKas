@@ -1,16 +1,83 @@
-## Hi there 👋
+# 👋 Hi, I'm Willian Betim
 
-<!--
-**WillKas/WillKas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Engineer | Systems Architecture | Integrations & Distributed Systems
 
-Here are some ideas to get you started:
+I’m a software developer focused on building robust, scalable, and integration-driven systems. My work revolves around backend architecture, microservices, data processing, and cloud-native solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🔧 Strong focus on backend development and system architecture
+* ☁️ Experience with cloud environments (AWS & OCI)
+* 🔄 Heavy use of integrations and messaging systems
+* 🐧 Linux-first mindset with automation and scripting
+* 📊 Working with data processing, ETL, and performance optimization
+* 📚 Constantly learning (Golang, Rust, and advanced architectures)
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Backend
+
+* Java (Spring Boot, Spring Security, JPA, Spring Data)
+* C#
+* Python (data processing, automation)
+* Ruby (report generation)
+* Golang (learning & experimentation)
+* Rust (learning & experimentation)
+
+### 🌐 Frontend
+
+* Angular
+* React
+* Vue.js
+* JSP / JSF (Primefaces)
+* Thymeleaf
+
+### 🗄️ Databases
+
+* PostgreSQL
+* MySQL
+* SQLite
+* H2
+
+### 📡 Messaging & Integration
+
+* Apache Kafka
+* RabbitMQ
+* AWS SQS
+* OCI Queue
+* REST / SOAP / FTP
+
+### ☁️ Cloud & DevOps
+
+* AWS (EC2, S3, SQS, ECR, ECS, Athena)
+* Oracle Cloud Infrastructure (OCI)
+* Docker
+* Kubernetes
+* GitLab CI/CD
+* Maven
+
+### 🛠️ Tools
+
+* Jasper Reports
+* JUnit
+* Git (GitLab, Azure DevOps)
+* Shell Script
+
+### 🖥️ Environments
+
+* Linux (Ubuntu, Debian)
+* Windows
+
+---
+
+## ⚡ Mindset
+
+> "Good code solves problems. Great code solves problems and scales without pain."
+
+---
+
+⭐ Always improving, always building, always optimizing.
